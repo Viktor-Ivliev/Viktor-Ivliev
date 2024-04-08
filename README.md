@@ -1,4 +1,5 @@
-![Выделение_523](https://github.com/Viktor-Ivliev/Viktor-Ivliiev/assets/6106270/28066662-3e4f-421d-9f49-b376e09d23b7)
+![logo](https://github.com/Viktor-Ivliev/Viktor-Ivliev/assets/6106270/53aa5f70-1fcb-4c85-b4e8-9d3af338a48d)
+
 
 ## Hi everyone, my name is Viktor and I'm a Full Stack Ruby on Rails Developer from Ukraine.
 
