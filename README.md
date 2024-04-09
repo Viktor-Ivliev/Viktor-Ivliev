@@ -1,12 +1,13 @@
 ![logo](https://github.com/Viktor-Ivliev/Viktor-Ivliev/assets/6106270/53aa5f70-1fcb-4c85-b4e8-9d3af338a48d)
 
 
-## Hi everyone, my name is Viktor and I'm a Full Stack Ruby on Rails Developer from Ukraine.
+## Hi everyone, my name is Viktor and I'm a Full Stack Developer from Ukraine.
 
 
 ----
 
 💻 Right now I'm doing something interesting on a great project )
+
 👍 My main tech stack is Ruby on Rails, Angular, SQL, Docker...
 
 ----
