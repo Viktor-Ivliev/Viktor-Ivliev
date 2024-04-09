@@ -14,7 +14,7 @@
 
 My latest projects:
 
-https://positrace.com/ - Solving various tasks including: fixing bugs, creating web components and web pages, writing tests, reviewing. 
+https://positrace.com/ - the platform for real-time equipment tracking and management. Solving various tasks including: fixing bugs, creating web components and web pages, writing tests, reviewing. 
 
-https://mobilecoach.com/ - Solving various tasks including: fixing bugs, creating web components and web pages, writing tests, reviews, technical issues, creating integrations with third-party services, updating deprecated components and libraries, organizing releases, creating and discussing new functionality, fixing security issues that are solved by software.
+https://mobilecoach.com/ - the enterprise-grade chatbot platform. Solving various tasks including: fixing bugs, creating web components and web pages, writing tests, reviews, technical issues, creating integrations with third-party services, updating deprecated components and libraries, organizing releases, creating and discussing new functionality, fixing security issues that are solved by software.
 
